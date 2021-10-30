@@ -1,0 +1,22 @@
+#search{
+	-fx-background-color: #84AC8F;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+.root{
+	-fx-background-color: #E8F3F2;
+}
+#add{
+-fx-background-color: #84AC8F;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;}
+#wordSound{
+	-fx-background-color: #84AC8F;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+#historyButton{
+	-fx-background-color: #84AC8F;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}

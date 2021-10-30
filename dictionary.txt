@@ -1,0 +1,7 @@
+house	ngôi nhà
+hello	xin chào
+depend	phụ thuộc
+avoid	cho phép
+apartment	căn hộ
+see	nhìn thấy
+apple	quả táo
